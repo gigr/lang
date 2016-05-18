@@ -1,0 +1,2 @@
+defmodule Lang do
+end
